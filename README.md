@@ -29,45 +29,7 @@ Check out the live demo here:
 
 ---
 
-## 🔧 Getting Started
 
-1. **Clone the repository**:
-   ```bash
- git clone https://github.com/Rajiya-sultana/ai-image-generator.git
-cd ai-image-generator
-
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Set up environment variables:
-Create a .env file in the root directory and add:
-
-env
-Copy
-Edit
-VITE_UNSPLASH_ACCESS_KEY=your_unsplash_access_key_here
-Run the development server:
-
-bash
-Copy
-Edit
-npm run dev
-📂 File Structure
-css
-Copy
-Edit
-src/
-│
-├── assets/
-│   └── default_image.svg
-│
-├── components/
-│   └── ImageGenerator.jsx
-│
-└── App.jsx
 📝 Notes
 The Unsplash API key is stored securely using Vite’s environment variables (VITE_UNSPLASH_ACCESS_KEY).
 
