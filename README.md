@@ -25,7 +25,7 @@ An intuitive web application that allows users to search for images using keywor
 
 ## 📸 Demo
 
-Check out the live demo here: 
+Check out the live demo here: https://ai-vision-spark.netlify.app/
 
 ---
 
